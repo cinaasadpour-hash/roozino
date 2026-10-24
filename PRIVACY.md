@@ -1,0 +1,13 @@
+# Privacy | حریم خصوصی
+
+This version integrates Tapsell advertising. The advertising SDK may process device, network and advertising identifiers, where available, to deliver and measure ads. The app does not pass your task contents, files, recordings or transcripts to the advertising SDK. Ad requests need internet access; the app’s core local functionality can work without advertising.
+
+این نسخه از تبلیغات تپسل استفاده می‌کند. کتابخانهٔ تبلیغات ممکن است اطلاعات دستگاه، شبکه و شناسهٔ تبلیغاتیِ در دسترس را برای ارائه و سنجش تبلیغ پردازش کند. برنامه محتوای کارها، فایل‌ها، صدا یا متن شما را به کتابخانهٔ تبلیغات ارسال نمی‌کند. درخواست تبلیغ به اینترنت نیاز دارد؛ قابلیت‌های اصلی محلی به دریافت تبلیغ وابسته نیستند.
+
+Files are accessed through Android’s user-selected pickers where applicable. Exporting or sharing is performed only through the actions you choose. Data sent to a destination you select is handled under that destination’s own policies.
+
+دسترسی به فایل‌ها در بخش‌های مربوط از انتخابگر اندروید و با انتخاب شما انجام می‌شود. خروجی و اشتراک‌گذاری با اقدام شما صورت می‌گیرد و دادهٔ ارسال‌شده به مقصد انتخابی تابع سیاست آن مقصد است.
+
+Optional server-assisted planning sends the task title and description only to the HTTPS endpoint explicitly configured and approved by you. No planning server is provided by default. Backups are exported to the location you choose.
+
+برنامه‌ریزی با سرور اختیاری، عنوان و شرح کار را فقط به نشانی HTTPS تنظیم‌شده و تأییدشده توسط شما می‌فرستد. سرور آماده‌ای به‌صورت پیش‌فرض ارائه نشده است. پشتیبان در مقصد انتخابی شما ذخیره می‌شود.
