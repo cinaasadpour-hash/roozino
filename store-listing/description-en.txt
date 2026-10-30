@@ -1,0 +1,5 @@
+Roozino helps you plan daily tasks and review your progress. Create tasks and subtasks, assign categories, dates, priorities and recurrence, and mark work as completed. Calendar and statistics views help you review your schedule and activity.
+
+Persian and English interfaces, Jalali and Gregorian calendars, and light and dark themes are available. Export a backup and restore it through Settings.
+
+Reminders depend on Android notification permission and, where applicable, exact-alarm permission. Phone battery settings may affect notification timing. If you use the optional online planning feature, review the information you send before proceeding.
