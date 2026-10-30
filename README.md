@@ -2,32 +2,48 @@
 
 ![Icon](icon.png)
 
-[Download / دریافت برنامه](https://github.com/cinaasadpour-hash/roozino/releases/latest)
+[Download / دریافت APK](https://github.com/cinaasadpour-hash/roozino/releases/tag/v1.0.1)
+
+Package: `com.sinatools.roozino` · Version: **1.0.1** · Version code: **2**
 
 ## فارسی
 
-مدیریت کارهای روزانه، زیرکارها، تکرار، یادآورها و تقویم شمسی یا میلادی.
+برنامه‌ریزی کارهای روزانه، تقویم شمسی و میلادی و یادآورها.
 
-زبان را انتخاب کنید و کار، تاریخ و در صورت نیاز یادآور بسازید. نمایش اعلان و هشدار دقیق به اجازهٔ اندروید نیاز دارد. از تنظیمات می‌توانید پشتیبان خروجی بگیرید و آن را بازیابی کنید.
+روزینو برای برنامه‌ریزی کارهای روزانه و پیگیری پیشرفت شما ساخته شده است. کار و زیرکار بسازید، دسته‌بندی، تاریخ، اولویت و تکرار را تعیین کنید و کارهای انجام‌شده را علامت بزنید. نمای تقویم و آمار به مرور برنامه و پیشرفت کمک می‌کنند.
 
-### تبلیغات
+رابط فارسی و انگلیسی، تقویم شمسی و میلادی و حالت روشن و تاریک در دسترس است. از تنظیمات می‌توانید پشتیبان بگیرید و فایل پشتیبان را بازیابی کنید.
 
-بنر همسان فقط در آمار و تنظیمات؛ هنگام ویرایش کار یا دسته‌بندی مخفی است.
-
-نمایش تبلیغ به اینترنت و موجودی شبکهٔ تبلیغات بستگی دارد. امکانات اصلی به دریافت تبلیغ وابسته نیستند. تبلیغ بینابینی هنگام شروع برنامه نمایش داده نمی‌شود و تعداد نمایش آن محدود است.
+نمایش یادآورها به مجوز اعلان و در موارد لازم اجازهٔ هشدار دقیق اندروید وابسته است. تنظیمات باتری گوشی نیز ممکن است روی زمان اعلان اثر بگذارد. در صورت استفاده از قابلیت اختیاری برنامه‌ریزی آنلاین، اطلاعات ارسالی را پیش از ادامه بررسی کنید.
 
 ## English
 
-Plan tasks and subtasks with recurrence, reminders, and Jalali or Gregorian calendars.
+Plan daily tasks with Jalali and Gregorian calendars and reminders.
 
-Choose a language and create a task, date and optional reminder. Notifications and exact alarms require Android permission. Export and restore backups from Settings.
+Roozino helps you plan daily tasks and review your progress. Create tasks and subtasks, assign categories, dates, priorities and recurrence, and mark work as completed. Calendar and statistics views help you review your schedule and activity.
 
-### Advertising
+Persian and English interfaces, Jalali and Gregorian calendars, and light and dark themes are available. Export a backup and restore it through Settings.
 
-Native banner only in Statistics and Settings, hidden while editing tasks or categories.
+Reminders depend on Android notification permission and, where applicable, exact-alarm permission. Phone battery settings may affect notification timing. If you use the optional online planning feature, review the information you send before proceeding.
 
-Advertising requires an internet connection and available inventory. Core features do not depend on an ad being available. Interstitials are not shown on launch and are frequency-capped.
+## Privacy / حریم خصوصی
 
-Package: `com.sinatools.roozino` · Version: **1.0.1** · Minimum Android API: **24** · Target SDK: **36**.
+See [Privacy / حریم خصوصی](PRIVACY.md). Store listing text in both languages is available in [store-listing](store-listing).
 
-See [Privacy / حریم خصوصی](PRIVACY.md). Release APKs are signed with the publisher’s release certificate; private signing keys are not included in this repository.
+## Verification / بررسی
+
+The signed APK was installed and launched on a Samsung Galaxy A32 with Android 13 on 2026-10-30, with existing app data preserved. The installed APK checksum matched the release file. Production Tapsell identifiers and the release certificate were checked in the APK. Detailed visual and functional coverage varies by app; this is not a guarantee of compatibility with every device or external service.
+
+نسخهٔ امضاشده در ۳۰ اکتبر ۲۰۲۶ روی گوشی نصب و اجرا شد و اطلاعات قبلی حفظ شد. اثرانگشت نسخهٔ نصب‌شده با فایل انتشار برابر بود. نام بسته، امضا و شناسه‌های واقعی تپسل در APK بررسی شدند. محدودهٔ آزمون هر برنامه متفاوت است و سازگاری با همهٔ دستگاه‌ها و خدمات تضمین نمی‌شود.
+
+## تصاویر برنامه
+
+<img src="screenshots/fa/03-tasks.png" width="230" alt="Roozino fa 03-tasks" />
+<img src="screenshots/fa/04-calendar.png" width="230" alt="Roozino fa 04-calendar" />
+<img src="screenshots/fa/05-statistics.png" width="230" alt="Roozino fa 05-statistics" />
+
+## Screenshots
+
+<img src="screenshots/en/03-tasks.png" width="230" alt="Roozino en 03-tasks" />
+<img src="screenshots/en/04-calendar.png" width="230" alt="Roozino en 04-calendar" />
+<img src="screenshots/en/05-statistics.png" width="230" alt="Roozino en 05-statistics" />
